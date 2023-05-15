@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "651743f1d7c0831e79e8",
+    "revision": "75b3d5de80317b89a7e0",
     "url": "/inotebook/static/css/main.5eee6730.chunk.css"
   },
   {
-    "revision": "651743f1d7c0831e79e8",
-    "url": "/inotebook/static/js/main.651743f1.chunk.js"
+    "revision": "75b3d5de80317b89a7e0",
+    "url": "/inotebook/static/js/main.75b3d5de.chunk.js"
   },
   {
     "revision": "e459cc6ec89340cad24c",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/inotebook/static/media/notelogin.9de0935a.png"
   },
   {
-    "revision": "8df43c0d3451252dd45c5df9ac952acf",
+    "revision": "75e57db20b7e3c66bb14aab4ec1ea4d5",
     "url": "/inotebook/index.html"
   }
 ];
