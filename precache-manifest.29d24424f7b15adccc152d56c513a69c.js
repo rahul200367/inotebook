@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c2404156a38aa89917e5",
+    "revision": "ebc2f9f842e2e503aefb",
     "url": "/inotebook/static/css/main.9670277a.chunk.css"
   },
   {
-    "revision": "c2404156a38aa89917e5",
-    "url": "/inotebook/static/js/main.c2404156.chunk.js"
+    "revision": "ebc2f9f842e2e503aefb",
+    "url": "/inotebook/static/js/main.ebc2f9f8.chunk.js"
   },
   {
     "revision": "a89266deb73d87b01859",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/inotebook/static/media/note icon.0da4a028.png"
   },
   {
-    "revision": "ab61a7b74737ce9dffff95ca9d47908b",
-    "url": "/inotebook/static/media/inoteboook.ab61a7b7.jpg"
+    "revision": "b808c54b72d95f0d54332df5a9230788",
+    "url": "/inotebook/static/media/inoteboook.b808c54b.jpg"
   },
   {
     "revision": "9d935167d5f7d392f6f85e4485279cbf",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/inotebook/static/media/notelogin.9de0935a.png"
   },
   {
-    "revision": "07bc2f7779906423af5cb33735ea05f6",
+    "revision": "0a8e6c486ab6b331d6a21ee6c6b6e02d",
     "url": "/inotebook/index.html"
   }
 ];
